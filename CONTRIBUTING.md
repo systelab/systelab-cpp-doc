@@ -52,7 +52,7 @@ The following resources may help you with the conventions we are used as well as
 
 ### Roadmap
 
-Next steps of the task force are defined and updated on the [roadmap](https://github.com/systelab/systelab-components/projects) for the current year.
+Next steps of the task force are defined and updated on the [roadmap](https://github.com/systelab/systelab-cpp-doc/projects) for the current year.
 
 
 ## How Can I Contribute?
