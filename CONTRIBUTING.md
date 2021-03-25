@@ -47,7 +47,7 @@ Check our [toolchain](TOOLCHAIN.md) document for a complete list of the set of t
 ### Conventions and decisions
 
 The following resources may help you with the conventions we are used as well as the decisions taken:
-* [Coding guidelines] (CODING_GUIDELINES.md)
+* [Coding guidelines](CODING_GUIDELINES.md)
 * [Design decisions](DESIGN_DECISIONS.md)
 
 ### Roadmap
