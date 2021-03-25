@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to CSW C++ task force and 
 
 [What should I know before I get started?](#what-should-i-know-before-i-get-started)
   * [Catalog of libraries](#catalog-of-libraries)
-  * [Toolchain] (#toolchain)
+  * [Toolchain](#toolchain)
   * [Conventions and decisions](#conventions-and-decisions)
   * [Roadmap](#roadmap)
 
@@ -22,8 +22,6 @@ The following is a set of guidelines for contributing to CSW C++ task force and 
   * [Suggesting Enhancements](#suggesting-enhancements)
   * [Pull Requests](#pull-requests)
 
-[Additional Notes](#additional-notes)
-  * [Issue and Pull Request Labels](#issue-and-pull-request-labels)
 
 ## Code of Conduct
 
@@ -113,7 +111,7 @@ Please follow these steps to have your contribution considered by the maintainer
 
 2. Follow all instructions in [the template](PULL_REQUEST_TEMPLATE.md)
 
-3. The changes can be tested in your local before publishing. Make sure all automated tests pass.
+3. The changes can be tested in your local before publishing. Make sure all automated tests pass before that.
 
 4. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
