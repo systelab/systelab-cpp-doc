@@ -82,7 +82,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
+This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
 Before creating enhancement suggestions, please check the list of issues of the library repository as you might find out that you don't need to create one. 
 
